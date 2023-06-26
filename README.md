@@ -15,3 +15,5 @@ Sources:
 
 [4] delete_many in pymongo:
 	https://www.geeksforgeeks.org/python-mongodb-delete_many/
+
+[5] edX Boot Camps LLC. Module 12, Day 03 Activity 04: mongodb_aggregation_pipeline_solution.ipynb
