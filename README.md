@@ -1,7 +1,7 @@
 # nosql-challenge
 Module 12 Challenge
 
-Graded __/100
+Graded 94/100
 
 
 Sources:
